@@ -1,2 +1,6 @@
-# Ignore arquivos log
+
+# Ignore a pasta node_modules
+node_modules
+
+# ignore all logs
 *.log
